@@ -1,0 +1,131 @@
+{
+    "products": [
+      {
+        "id": 0,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_1.jfif",
+        "title": "리넨 블렌드 싱글 브레스티드 재킷",
+        "price": "59,900원",
+        "choice": true,
+        "new": true,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 1,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_2.jfif",
+        "title": "라이트 블루/스트라이프",
+        "price": "29,900원",
+        "choice": true,
+        "new": true,
+        "size": ["S", "M", "L"]
+      },
+  
+      {
+        "id": 2,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_3.jfif",
+        "title": "하이웨이스트 데님 쇼츠",
+        "price": "34,900원",
+        "choice": false,
+        "new": true,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 3,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_4.jfif",
+        "title": "슬리브리스 크롭트 탑",
+        "price": "39,900원",
+        "choice": false,
+        "new": true,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 4,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_5.jfif",
+        "title": "저지 바디콘 드레스",
+        "price": "29,900원",
+        "choice": true,
+        "new": false,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 5,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_6.jfif",
+        "title": "라인스톤 디테일 힐 샌들",
+        "price": "39,900원",
+        "choice": false,
+        "new": false,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 6,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_7.jfif",
+        "title": "리넨 블렌드 셔츠",
+        "price": "39,900원",
+        "choice": true,
+        "new": false,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 7,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_8.jfif",
+        "title": "웨지힐 뮬",
+        "price": "99,900원",
+        "choice": false,
+        "new": true,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 8,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_9.jfif",
+        "title": "타이 디테일 드레스",
+        "price": "14,900원",
+        "choice": true,
+        "new": true,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 9,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_10.jfif",
+        "title": "크레이프 랩스타일 드레스",
+        "price": "19,900원",
+        "choice": false,
+        "new": true,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 10,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_11.jfif",
+        "title": "타이 디테일 니트 드레스",
+        "price": "19,900원",
+        "choice": true,
+        "new": false,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 11,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_12.jfif",
+        "title": "레이스 디테일 저지 드레스",
+        "price": "29,900원",
+        "choice": true,
+        "new": true,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 12,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_13.jfif",
+        "title": "슬리브리스 리넨 탑",
+        "price": "14,900원",
+        "choice": true,
+        "new": true,
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 13,
+        "img": "https://understanding963852.github.io/img/hmgoepprod_14.jfif",
+        "title": "튜브 탑",
+        "price": "29,900원",
+        "choice": false,
+        "new": false,
+        "size": ["S", "M", "L"]
+      }
+    ]
+  }

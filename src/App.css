@@ -1,0 +1,105 @@
+.login-button {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10px;
+  margin: 20px;
+  cursor: pointer;
+}
+.login-button > div {
+  margin: 0 10vw 0 20px;
+}
+.nav-section {
+  display: flex;
+  justify-content: center;
+}
+
+.menu_list {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 30px;
+}
+.menu_list ul {
+  display: flex;
+  justify-content: center;
+}
+.menu_list li {
+  margin: 0 10px;
+  list-style: none;
+}
+.input {
+  position: absolute;
+  right: 10vw;
+  border-bottom: 2px solid #333;
+}
+.input input {
+  border: none;
+}
+
+.productAll {
+  margin-top: 50px;
+}
+.productCard {
+  margin: 0 5px;
+}
+.productCard div {
+  height: 40px;
+}
+.productCard img {
+  width: 100%;
+}
+.productCard .title {
+  font-weight: bold;
+}
+
+.product-img {
+  display: flex;
+  justify-content: flex-end;
+}
+.produt-desc {
+  padding-top: 10vh;
+}
+.produt-desc div {
+  margin-bottom: 30px;
+}
+.produt-desc .add-button {
+  width: 100%;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1%;
+  width: 1200px;
+  margin: auto;
+  justify-content: center;
+}
+.cards .card {
+  width: 24% !important;
+  margin-bottom: 1%;
+}
+
+.loginForm {
+  width: 700px;
+  margin: 30px auto;
+}
+
+
+.product-img {
+  display: flex;
+  justify-content: flex-end;
+}
+.produt-desc {
+}
+.bg-light div {
+  margin-bottom: 30px;
+}
+.produt-desc .add-button {
+  width: 100%;
+}
+.col-6{padding-top: 5vh;
+box-sizing: border-box;
+}
+.col-6 img{width: 100%;}
+
+.detail{width: 70vw; margin: auto;}
