@@ -12,7 +12,7 @@ function ProductDetail() {
   const [product,setProduct]=useState(null);
   //console.log(id)
   const getProductDetail=async()=>{
-    let url=`http://localhost:3004/products/${id}`;
+    let url=`https://my-json-server.typicode.com/seouwoo/shop/products/${id}`;
     let response=await fetch(url);
     let data=await response.json();
     console.log(data)
